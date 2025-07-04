@@ -96,7 +96,7 @@ cd_ai/
 
 ```bash
 # Clone the repository
-git clone https://github.com/ranadebsaha/CD_AI
+git clone https://github.com/ranadebsaha/CB_AI
 cd cd_ai/backend
 
 # Install Python dependencies
